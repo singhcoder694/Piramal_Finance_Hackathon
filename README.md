@@ -48,6 +48,3 @@ There are multiple files provided.
 <img src="step-3.png" alt="Step 1" />
 
 By addressing these steps and challenges, the project aims to develop a robust Machine Learning model capable of accurately predicting the Rate of Interest (ROI) from bureau data, thereby aiding in informed decision-making in the finance industry.
-# Piramal_Finance_Hackathon
-# Piramal_Finance_Hackathon
-# Piramal_Finance_Hackathon
